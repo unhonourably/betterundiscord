@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name            Better Undiscord
 // @description     Delete all messages in a Discord channel or DM (Bulk deletion)
-// @version         5.2.1
+// @version         0.0.1
 // @author          unhonourably
 // @homepageURL     https://github.com/victornpb/undiscord
 // @supportURL      https://github.com/victornpb/undiscord/discussions
@@ -18,7 +18,7 @@
 	'use strict';
 
 	/* rollup-plugin-baked-env */
-	const VERSION = "5.2.1";
+	const VERSION = "0.0.1";
 
 	var themeCss = (`
 /* undiscord window */
